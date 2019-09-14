@@ -26,6 +26,7 @@ A Info szakkör
   * Ékezetek és egyéb furcsa karakterek
     * `&valami;`
       * Ahol a _valami_ lehet kód `#xxx` vagy `kódnév`.
+
 | kód | kinézet |
 | `&Aacute;` | Á |
 | `&aacute;` | á |
@@ -33,6 +34,7 @@ A Info szakkör
 | `&ouml;` | ö |
 | `&#337; &#336;` | ő Ő |
 | `&#369; &#368;` | ű Ű |
+
     * lásd https://www.w3schools.com/html/html_entities.asp és  https://www.w3schools.com/html/html_symbols.asp
     * lásd https://www.w3schools.com/charsets/ref_utf_latin1_supplement.asp
     * https://sites.psu.edu/symbolcodes/languages/europe/hungarian/
