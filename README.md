@@ -1,5 +1,6 @@
 # Bevezető
-A Info szakkör
+Info szakkör
+  https://hehainfoszakkor2019.github.io/elso
 
 # 2019. szeptember 16.
   * Mi a HTML? Mit jelent, hogy Hypertext Markup Language.
@@ -38,6 +39,8 @@ A Info szakkör
     * lásd https://www.w3schools.com/html/html_entities.asp és  https://www.w3schools.com/html/html_symbols.asp
     * lásd https://www.w3schools.com/charsets/ref_utf_latin1_supplement.asp
     * https://sites.psu.edu/symbolcodes/languages/europe/hungarian/
+  * Csináljuk saját oldalt!
+    * lásd https://hehainfoszakkor2019.github.io/elso/1-minta.html
   * Színek
 ```html
 <body bgcolor=yellow>
