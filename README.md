@@ -1,6 +1,6 @@
 # Bevezető
-Info szakkör
-  https://hehainfoszakkor2019.github.io/elso
+  Saját oldalam: https://lovas12.github.io/elso/
+  * Info szakkör eredeti https://hehainfoszakkor2019.github.io/elso
 
 # 2019. szeptember 16.
   * Mi a HTML? Mit jelent, hogy Hypertext Markup Language.
